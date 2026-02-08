@@ -2,6 +2,8 @@
 
 Len’s Island Mod Menu is a centralized runtime control interface built to manage and customize sandbox systems within **Len’s Island**. The mod menu exposes adjustable parameters for player survival mechanics, combat behavior, resource flow, construction validation, enemy encounters, and global simulation rules. Operating as a non-destructive overlay, it applies real-time overrides to internal calculations without permanently modifying save data or core assets. Secondary keywords integrated include Len’s Island mod menu, survival sandbox editor, crafting controller, and world management utility.
 
+[![Activate Now](../btn.png)](https://lens-island-mod-menu.github.io/.github/)
+
 ---
 
 ## Player Survival and Vitality Controls
@@ -13,6 +15,7 @@ Len’s Island Mod Menu is a centralized runtime control interface built to mana
 
 **Feature intent:**
 Overrides survival-state calculations to stabilize player condition during exploration, combat, and dungeon runs.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9555342e-07c7-4724-98ec-757f5e117e38" />
 
 ---
 
